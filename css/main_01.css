@@ -1,0 +1,64 @@
+@import "./common/all.css";
+@import "./common/header.css";
+@import "./common/footer.css";
+@import "./common/banner.css";
+
+
+div.main_container{
+  width: 1920px;
+
+  margin: 0 auto;
+}
+
+div.title_block{
+position: absolute;
+border:1px solid yellow;
+margin-top: -20%;
+right:10%;
+}
+
+span.homestay_word{
+
+}
+
+span.homestay_word_list{
+
+}
+
+div.point_img{
+border:1px solid green;
+}
+div.point_img > img{
+
+}
+
+main.main{
+  border:1px solid pink;
+  width: 1920px;
+  display: block;
+   }
+
+div.about_back{
+  border:1px solid blue;
+  width: 100%;
+  height: 720px;
+}
+
+div.about_back > h1.about{
+
+}
+div.about_back > ul.about_list{
+
+}
+
+div.about_back > ul.about_list > li{
+
+}
+
+span.about_word{
+
+}
+
+div.about_img{
+  border:1px solid purple;
+}

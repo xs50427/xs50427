@@ -1,0 +1,10 @@
+div.title_menu{
+  background-image: url("../../picture/menu01.png");
+  background-repeat: no-repeat;
+  height: 1006px;
+  min-width: 1920px;
+  background-size: cover;
+  background-position: left 50px top 50px;
+  position:relative;
+  overflow: hidden
+}
